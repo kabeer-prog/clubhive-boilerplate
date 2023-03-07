@@ -1,4 +1,4 @@
-# Clubhive
+# Clubhive by Kabeer
 
 > Build your very own Clubhouse clone
 
